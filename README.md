@@ -1,3 +1,6 @@
 # WHOTHEFREAK-WEBSITE (ESPORTS)
 
-## CODE USED: HTML, CSS 
+## VIST: https://aayushpratapsingh.github.io/ESPORT-WTF-WEBSITE/
+
+
+
